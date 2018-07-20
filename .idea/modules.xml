@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-sync-88e391a69e8f3b55167c1512ec7e40b988245e27.iml" filepath="$PROJECT_DIR$/android-sync-88e391a69e8f3b55167c1512ec7e40b988245e27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
